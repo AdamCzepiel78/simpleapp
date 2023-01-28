@@ -7,5 +7,6 @@
 <body> 
 	<h1>PHP Test from Adam Czepiel</h1>
 	<h2>Adam Czepiel is good</h2>
+	<h2>Version 2</h2>
 	</body> 
 </html>
